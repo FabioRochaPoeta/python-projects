@@ -1,1 +1,1 @@
-# pythin-projects
+# python-projects
